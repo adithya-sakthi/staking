@@ -1,0 +1,212 @@
+.navbar-brand{
+    font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+color: #386FFD;
+
+}
+
+
+.banner-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    height: 100%;
+    margin: 40px;
+}
+.banner-right{
+       display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    height: 100%;
+    margin: 10px;
+}
+.banner-right img{
+  width:390px;
+  
+}
+.banner-left h1{
+    font-size: 40px;
+    line-height: 57px;
+    color: #130000;
+    max-width: 60%;
+    font-family:'Outfit', sans-serif;
+    font-weight: 600;
+   
+}
+.banner-left h1 small{
+    font-size: 16px;
+    line-height: 19px;
+    color: #0911CA;
+    display: block;
+    margin-bottom: 20px;
+}
+.banner-left a{
+    margin-top: 20px;
+}
+.crypto-rewards{
+   
+    padding: 80px 0;
+    text-align: center;
+}
+.title-center{
+    font-size: 35px;
+    line-height: 44px;
+    color: #130000;
+    margin-bottom: 60px;
+}
+.title-center{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: #7558E8;
+display: block;
+margin-top: -42px;
+}
+.rewards-left{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.rewards-left img{
+
+  width:60%;
+}
+
+.rewards-right{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box-1{
+    
+    background: rgba(251, 127, 127, 0.12);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin:10px;  
+    padding: 15px 45px;
+}
+
+
+
+
+  
+
+.card-number{
+    background: #D9D9D9;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 48px;
+    color: #000000;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.rewards-right h3{
+    font-family: 'Outfit';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #7558E8;
+    margin-top: 20px;
+    text-align: left;
+    
+}
+.rewards-right small{
+    display:block;
+    color:black;
+    font-weight: 400;
+    font-size: 16px;
+    
+    
+}
+.staking-section{
+    padding: 80px 0;
+    text-align: center;
+}
+.staking-card{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+    width: 228px;
+    height: 282px;
+    margin: 10px;
+      
+}
+
+.staking-card img{
+    width:30%;
+    height:20%;
+    margin:20px;
+}
+.cardd_1{
+    display:flex;
+    align-items:right;
+    justify-content:right;
+}
+.cardd_2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.cardd_3{
+    display:flex;
+    align-items:left;
+    justify-content:left;
+}
+
+.staking-card h2{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #6147CA;
+}
+.foot-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+   
+
+}
+.foot-left h2{
+    font-size:25px;
+    font-family: 'Outfit', sans-serif;
+    color:white;
+    margin-top: 25px;
+    
+}
+.nav-footer{
+    background-color:  #5741D9;
+    
+}
+
+.footer-mid{
+    display: flex;
+    justify-content: center;
+}
+.foot-nav-items{
+    list-style: none;
+    margin:0;
+    padding:0;
+    display:block;
+    margin-block-start: 3em;  
+}
+.foot-nav-items a{
+    text-decoration: none;
+    color:white;
+    line-height: 25px;
+}

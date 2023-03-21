@@ -1,0 +1,46 @@
+
+.main-nav{
+    height:115px;
+    width:100%;
+    background: #5741D9;
+}
+
+span.text-white {
+  font-family: 'Outfit', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.nav-button{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+
+}
+
+.buy-button{
+    width: 231px;
+    height: 63px;
+   
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 40px;
+  }
+
+  .buy-button img{
+    width: 39px;
+    height: 39px;
+    margin-right:30px;
+  }
+  .bal{
+    margin-top: 30px;
+    width: 386px;
+    height: 135px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
